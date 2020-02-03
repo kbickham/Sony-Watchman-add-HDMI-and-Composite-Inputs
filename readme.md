@@ -9,3 +9,8 @@ as I have to convert it into RF to use the signal on the CRT.
 This may not be feasible. If it isn't I'll go buy an adapter from the hardware store..but this little breakout board is just screaming "USE ME FOR SOMETHING!"
 
 ![Sony Watchman and HDMI interface from a Coby TV](https://github.com/kbickham/Sony-Watchman-add-HDMI-and-Composite-Inputs/blob/master/sony%20watchman.jpg)
+
+I've had experience working on Sparta 3 boards, but right now that's a little out of my price range. Aside from banggood and aliexpress... amazon has some cheaper clones on sale for around 20$ that have decent shipping times. This is the board I'm looking at , but I'm not sure if theres enough data bandwidth/bit width to process the signal, but if there is... I'm goin to try.
+
+![Cyclone II FPGA Board](https://github.com/kbickham/Sony-Watchman-add-HDMI-and-Composite-Inputs/blob/master/fpga.PNG)
+ 
